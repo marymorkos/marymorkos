@@ -1,5 +1,5 @@
 # marymorkos
-<h1>Hi, I'm Mary! <br/><a href="https://github.com/marymorkos">Programmer</a>, <a href="https://www.linkedin.com/in/marymorkos/">Data Science Graduate</a>,
+<h1>Hi, I'm Mary! <br/><a href="https://github.com/marymorkos"></a>, <a href="https://www.linkedin.com/in/marymorkos/">Data Science Graduate</a>,
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
