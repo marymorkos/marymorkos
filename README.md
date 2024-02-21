@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b> Health Disparities using SDOH in TN</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Social Determinants of Health and Machine Learning](https://github.com/marymorkos/SDOH-Machine-Learning)
 =
 
 <h2> 🤳 Connect with me:</h2>
