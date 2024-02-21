@@ -5,7 +5,6 @@
 
 - <b> Health Disparities using SDOH in TN</b>
   - [Social Determinants of Health and Machine Learning](https://github.com/marymorkos/SDOH-Machine-Learning)
-=
 
 <h2> 🤳 Connect with me:</h2>
 
