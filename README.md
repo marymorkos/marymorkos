@@ -3,6 +3,8 @@
 Hi, I'm Mary!
 
 [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/marymorkos)
+
+
 [Data Science and Public Health Student](https://www.linkedin.com/in/marymorkos/)
 
 ## 👨‍💻 Data Science Projects:
