@@ -11,7 +11,7 @@ I'm a Data Science and Public Health student passionate about data and finding p
 - **Bachelor of Science in Data Science; minor: Public Health**
   - Belmont University, Nashville, TN (Aug. 2021 – May 2024)
 
-### 🏆 Achievements
+### ⏳ Involvements
 
 - **Leadership/Clubs:** Vice President of Community Resources: Belmont Data Experience; Women in Technology Tennessee (WITT), mentee.
 
