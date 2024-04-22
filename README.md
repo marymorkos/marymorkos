@@ -43,7 +43,7 @@ I'm a Data Science and Public Health student passionate about data and finding p
 - [Beyond the Numbers: Tennessee's Mortality Mosaic](https://github.com/marymorkos/tnhealth)
 
 ### Maternal Health Risk Classification: Leveraging Machine Learning for Enhanced Risk Management
-- [Maternal Health Risk Classification:Leveraging Machine Learning for Enhanced Risk Management] (https://github.com/marymorkos/maternalmortalityhealthriskdata)
+- [Maternal Health Risk Classification:Leveraging Machine Learning for Enhanced Risk Management](https://github.com/marymorkos/maternalmortalityhealthriskdata)
   
 ## 📫 How to reach me
 - 📧 Email: mary.a.morkos@gmail.com
