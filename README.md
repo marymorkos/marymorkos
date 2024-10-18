@@ -12,7 +12,6 @@ I'm a Data Science and Public Health student passionate about data and finding p
 
 - **Bachelor of Science in Data Science, Minor in Public Health**  
   Belmont University, Nashville, TN (Aug. 2021 – May 2024)  
-  *GPA*: 3.4/4  
   *Relevant Coursework*: Programming I and II, Calculus I and II, Computing for Scientific Research, Deep Learning and AI Ethics, Statistical Computing, Statistical Modeling, Data Mining, Database Systems, Social Determinants of Health, Global Health, Current Issues in Public Health, Epidemiology
 
 ### ⏳ Involvements
@@ -32,8 +31,16 @@ I'm a Data Science and Public Health student passionate about data and finding p
   Diana Health, Nashville, TN
 
 ### 💻 Skills
-- **Languages**: Java, Python, SQL, SPSS
-- **Tools**: Tableau, Microsoft Power BI, Microsoft Office, Google Suite
+
+## Languages
+- **Programming Languages:** Java, Python, SQL, SPSS, R  
+
+## Tools  
+- **Data Visualization & BI Tools:** Tableau, Microsoft Power BI, Looker Studio  
+- **Office Productivity Tools:** Microsoft Office, Google Suite  
+
+## Frameworks & Libraries  
+- **Python Libraries:** NumPy, Matplotlib, SciPy, Seaborn, Pandas, scikit-learn
 
 ### 🚀 My Projects
 - **Mortality Patterns Analysis in Tennessee Counties (2019-2021)**  
