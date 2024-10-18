@@ -30,17 +30,17 @@ I'm a Data Science and Public Health student passionate about data and finding p
 - **Community Outreach - Part-Time**  
   Diana Health, Nashville, TN
 
-### 💻 Skills
+## 💻 Skills
 
-## Languages
+### Languages  
 - **Programming Languages:** Java, Python, SQL, SPSS, R  
 
-## Tools  
+### Tools  
 - **Data Visualization & BI Tools:** Tableau, Microsoft Power BI, Looker Studio  
 - **Office Productivity Tools:** Microsoft Office, Google Suite  
 
-## Frameworks & Libraries  
-- **Python Libraries:** NumPy, Matplotlib, SciPy, Seaborn, Pandas, scikit-learn
+### Frameworks & Libraries  
+- **Python Libraries:** NumPy, Matplotlib, SciPy, Seaborn, Pandas, scikit-learn  
 
 ### 🚀 My Projects
 - **Mortality Patterns Analysis in Tennessee Counties (2019-2021)**  
